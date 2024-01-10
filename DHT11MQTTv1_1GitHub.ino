@@ -1,4 +1,10 @@
 /*
+  James Allen September 2022
+
+  An ESP32 (LilyGo TTGO T-Display) connected to a DHT11 sensor providing Temperature and Humidity Readings to an MQTT Broker hosted in Azure. Further development has taken place to allow data streams via Node-Red and Grafana
+  
+  Elements of Code taken from:
+  
   Rui Santos
   Complete project details at https://RandomNerdTutorials.com/esp32-mqtt-publish-dht11-dht22-arduino/
   
